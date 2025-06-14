@@ -90,3 +90,12 @@ To run this dashboard locally, ensure you have the required libraries and enviro
 
 Contributions are welcome! Please feel free to submit a pull request with your enhancements.
 
+https://github.com/Saurabhshirpurkar27/Sales-Dashboard-/blob/main/readme.JPG?raw=true
+
+
+
+
+
+
+![SALES DASHBOARD ](https://github.com/Saurabhshirpurkar27/Sales-Dashboard-/blob/main/readme.JPG?raw=true)
+
